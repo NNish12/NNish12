@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anastasia </h1>
+<h1 align="center">Hello, I'm Anastasia </h1>
 <h3 align="center">C# / Unity Developer</h3>
 
 ---
@@ -15,24 +15,27 @@ Constantly improving through practice, reading, and refactoring.
 
 ### Education
 - **Incomplete higher education** — Faculty of Physics and Mathematics, major in *Mathematics*  
-- **Courses:**  
-  - Unity Learn — full development path  
-  - [Metanit](https://metanit.com/) — C# and Unity fundamentals  
+
+  - [Metanit](https://metanit.com/) — C# fundamentals
+  - Completed advanced courses focused on Unity development, game architecture, and C# scripting.
+  - Using AI tools into the process of language learning and architecture design to optimize the learning cycle.
+  - Unity Learn — full development path
   - *CLR via C#* by Jeffrey Richter — deep dive into .NET architecture  
-  - *The Art of Game Design* by Jesse Schell — classic of game design theory  
+  - *The Art of Game Design* by Jesse Schell — classic of game design theory
+
 
 ---
 
 ### Key Skills
 
-**Fundamental:**
 - Algorithms and Data Structures  
 - Mathematics and logic thinking  
-- SOLID principles and Design Patterns  
+- SOLID principles and Design Patterns
+- Practice and creation of VFX in Unity
 
 **Applied:**
 - C# — OOP, events, delegates
-- Unity — physics, UI, particle system, scriptable objects, custom editors  
+- Unity — physics, UI, particle system, scriptable objects, custom editors
 - Git — command line workflow
 - Git GUI tools — Fork, GitHub Desktop  
 - Photoshop — advanced proficiency
